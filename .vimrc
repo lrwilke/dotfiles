@@ -45,7 +45,6 @@ let g:netrw_winsize = 25
 
 let g:ctrlp_use_caching = 0
 
-let mapleader=","
 " split window vertically
 nnoremap <leader>v :wincmd v<CR>
 " move focus left, down, up, right
